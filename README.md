@@ -1,0 +1,2 @@
+# House_Rent_Predictor_Algorithm
+This project predicts house prices for rent in one of the metropolitan cities(Hyderabad) in India. The data has been extracted from 99 acres.com by using a web scrapping method with a beautiful soup package in python. The extracted data will be formatted as a data frame and converted to a CSV file.   Later we use data cleansing methods and prepare the data set for machine learning algorithms.
